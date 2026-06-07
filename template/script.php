@@ -12,3 +12,6 @@
 
   <!-- Template Javascript -->
   <script src="js/main.js"></script>
+  <script async defer crossorigin="anonymous"
+    src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v23.0">
+  </script>

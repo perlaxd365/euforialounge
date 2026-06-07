@@ -70,7 +70,7 @@
 
                         <div class="col-lg-6">
                             <div class="d-flex align-items-center">
-                                <img src="img/brochetas.jpg" class="img-fluid rounded" style="width:80px;">
+                                <img src="img/carta/brocheta_pollo.png" class="img-fluid rounded" style="width:80px;">
                                 <div class="w-100 d-flex flex-column text-start ps-4">
                                     <h5 class="d-flex justify-content-between border-bottom pb-2">
                                         <span>Brochetas de Pollo</span>
@@ -83,7 +83,7 @@
 
                         <div class="col-lg-6">
                             <div class="d-flex align-items-center">
-                                <img src="img/mix-euforia.jpg" class="img-fluid rounded" style="width:80px;">
+                                <img src="img/carta/mix_euforia.png" class="img-fluid rounded" style="width:80px;">
                                 <div class="w-100 d-flex flex-column text-start ps-4">
                                     <h5 class="d-flex justify-content-between border-bottom pb-2">
                                         <span>Mix Euforia</span>
@@ -96,7 +96,7 @@
 
                         <div class="col-lg-6">
                             <div class="d-flex align-items-center">
-                                <img src="img/empanadas.jpg" class="img-fluid rounded" style="width:80px;">
+                                <img src="img/carta/empanada.png" class="img-fluid rounded" style="width:80px;">
                                 <div class="w-100 d-flex flex-column text-start ps-4">
                                     <h5 class="d-flex justify-content-between border-bottom pb-2">
                                         <span>Empanadas Artesanales</span>
@@ -109,7 +109,7 @@
 
                         <div class="col-lg-6">
                             <div class="d-flex align-items-center">
-                                <img src="img/champinones.jpg" class="img-fluid rounded" style="width:80px;">
+                                <img src="img/carta/champi.png" class="img-fluid rounded" style="width:80px;">
                                 <div class="w-100 d-flex flex-column text-start ps-4">
                                     <h5 class="d-flex justify-content-between border-bottom pb-2">
                                         <span>Champiñones a la Parrilla</span>
@@ -122,7 +122,7 @@
 
                         <div class="col-lg-6">
                             <div class="d-flex align-items-center">
-                                <img src="img/alitas-bbq.jpg" class="img-fluid rounded" style="width:80px;">
+                                <img src="img/carta/alitas.png" class="img-fluid rounded" style="width:80px;">
                                 <div class="w-100 d-flex flex-column text-start ps-4">
                                     <h5 class="d-flex justify-content-between border-bottom pb-2">
                                         <span>Alitas BBQ</span>
@@ -142,7 +142,7 @@
 
                         <div class="col-lg-6">
                             <div class="d-flex align-items-center">
-                                <img src="img/churrasco.jpg" class="img-fluid rounded" style="width:80px;">
+                                <img src="img/carta/churrasco.png" class="img-fluid rounded" style="width:80px;">
                                 <div class="w-100 d-flex flex-column text-start ps-4">
                                     <h5 class="d-flex justify-content-between border-bottom pb-2">
                                         <span>Churrasco</span>
@@ -155,7 +155,7 @@
 
                         <div class="col-lg-6">
                             <div class="d-flex align-items-center">
-                                <img src="img/chuleta.jpg" class="img-fluid rounded" style="width:80px;">
+                                <img src="img/carta/chuleta.png" class="img-fluid rounded" style="width:80px;">
                                 <div class="w-100 d-flex flex-column text-start ps-4">
                                     <h5 class="d-flex justify-content-between border-bottom pb-2">
                                         <span>Chuleta</span>
@@ -168,7 +168,7 @@
 
                         <div class="col-lg-6">
                             <div class="d-flex align-items-center">
-                                <img src="img/costillas.jpg" class="img-fluid rounded" style="width:80px;">
+                                <img src="img/carta/costillas.png" class="img-fluid rounded" style="width:80px;">
                                 <div class="w-100 d-flex flex-column text-start ps-4">
                                     <h5 class="d-flex justify-content-between border-bottom pb-2">
                                         <span>Costillas BBQ</span>
@@ -181,7 +181,7 @@
 
                         <div class="col-lg-6">
                             <div class="d-flex align-items-center">
-                                <img src="img/picana.jpg" class="img-fluid rounded" style="width:80px;">
+                                <img src="img/carta/picana.png" class="img-fluid rounded" style="width:80px;">
                                 <div class="w-100 d-flex flex-column text-start ps-4">
                                     <h5 class="d-flex justify-content-between border-bottom pb-2">
                                         <span>Picaña Brasileña</span>
@@ -194,7 +194,7 @@
 
                         <div class="col-lg-6">
                             <div class="d-flex align-items-center">
-                                <img src="img/tomahawk.jpg" class="img-fluid rounded" style="width:80px;">
+                                <img src="img/carta/tomahawk.png" class="img-fluid rounded" style="width:80px;">
                                 <div class="w-100 d-flex flex-column text-start ps-4">
                                     <h5 class="d-flex justify-content-between border-bottom pb-2">
                                         <span>Tomahawk 1kg</span>
