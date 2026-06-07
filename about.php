@@ -3,7 +3,7 @@
 <?php
 include('template/head.php')
 ?>
-
+<title>Nosotros | Euforia Lounge Chimbote</title>
 
 <body>
     <div class="container-xxl bg-white p-0">

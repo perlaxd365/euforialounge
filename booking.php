@@ -3,7 +3,7 @@
 <?php
 include('template/head.php')
 ?>
-
+<title>Reserva tu Mesa | Euforia Lounge Chimbote</title>
 
 <body>
     <div class="container-xxl bg-white p-0">
@@ -23,11 +23,11 @@ include('template/head.php')
             ?>
             <div class="container-xxl py-5 bg-dark hero-header mb-5">
                 <div class="container text-center my-5 pt-5 pb-4">
-                    <h1 class="display-3 text-white mb-3 animated slideInDown">Booking</h1>
+                    <h1 class="display-3 text-white mb-3 animated slideInDown">Reservaciones</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center text-uppercase">
-                            <li class="breadcrumb-item"><a href="#">Home</a></li>
-                            <li class="breadcrumb-item"><a href="#">Pages</a></li>
+                            <li class="breadcrumb-item"><a href="#">Inicio</a></li>
+                            <li class="breadcrumb-item"><a href="#">Paginas</a></li>
                             <li class="breadcrumb-item text-white active" aria-current="page">Booking</li>
                         </ol>
                     </nav>
@@ -43,7 +43,7 @@ include('template/head.php')
         <?php
         include('template/reservacion.php')
         ?>
-       
+
         <!-- fin  reservacion -->
 
 

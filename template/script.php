@@ -15,3 +15,21 @@
   <script async defer crossorigin="anonymous"
     src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v23.0">
   </script>
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Restaurant",
+      "name": "Euforia Lounge",
+      "image": "https://tudominio.com/img/logo.png",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Jr. Espinar 313",
+        "addressLocality": "Chimbote",
+        "addressCountry": "PE"
+      },
+      "telephone": "+51919473674",
+      "servesCuisine": "Parrillas, Pastas, Cócteles",
+      "url": "https://tudominio.com"
+    }
+  </script>

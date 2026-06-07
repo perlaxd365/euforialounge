@@ -4,6 +4,7 @@
 include('template/head.php')
 ?>
 
+<title>Euforia Lounge Chimbote | Parrillas, Pastas y Cócteles</title>
 
 <body>
     <div class="container-xxl bg-white p-0">

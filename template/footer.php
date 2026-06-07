@@ -4,9 +4,14 @@
 
             <!-- Empresa -->
             <div class="col-lg-3 col-md-6">
+
                 <h4 class="section-title ff-secondary text-start text-primary fw-normal mb-4">
                     Euforia Lounge
                 </h4>
+                <p>
+                    Euforia Lounge es un restaurante lounge ubicado en Jr. Espinar 313, Chimbote.
+                    Especialistas en parrillas, pastas, cócteles y experiencias gastronómicas.
+                </p>
                 <a class="btn btn-link" href="about.php">Nosotros</a>
                 <a class="btn btn-link" href="service.php">Servicios</a>
                 <a class="btn btn-link" href="menu.php">Carta</a>
